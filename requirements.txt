@@ -1,0 +1,7 @@
+youtube-transcript-api
+gradio>=4.0
+sentence-transformers
+numpy
+scikit-learn
+google-generativeai
+python-dotenv

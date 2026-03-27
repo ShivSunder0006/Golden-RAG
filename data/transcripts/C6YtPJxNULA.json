@@ -1,0 +1,2163 @@
+{
+  "title": "Neural Networks from Scratch in Hindi/Urdu",
+  "url": "https://www.youtube.com/watch?v=C6YtPJxNULA",
+  "video_id": "C6YtPJxNULA",
+  "segments": [
+    {
+      "text": "So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024.",
+      "start": 0.0,
+      "duration": 6.5,
+      "timestamp": "00:00"
+    },
+    {
+      "text": "In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software,",
+      "start": 6.5,
+      "duration": 7.3,
+      "timestamp": "00:06"
+    },
+    {
+      "text": "my opinion is a little different here.",
+      "start": 13.8,
+      "duration": 1.7,
+      "timestamp": "00:13"
+    },
+    {
+      "text": "I will say who will take away the jobs, not AI.",
+      "start": 15.5,
+      "duration": 2.5,
+      "timestamp": "00:15"
+    },
+    {
+      "text": "The person who will learn to learn AI and machine learning tools will take away.",
+      "start": 18.0,
+      "duration": 3.7,
+      "timestamp": "00:18"
+    },
+    {
+      "text": "Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him",
+      "start": 21.7,
+      "duration": 4.3,
+      "timestamp": "00:21"
+    },
+    {
+      "text": "to do those things",
+      "start": 26.0,
+      "duration": 2.0,
+      "timestamp": "00:26"
+    },
+    {
+      "text": "which a normal software developer",
+      "start": 28.0,
+      "duration": 2.0,
+      "timestamp": "00:28"
+    },
+    {
+      "text": "does with a lot of hard work",
+      "start": 30.0,
+      "duration": 2.0,
+      "timestamp": "00:30"
+    },
+    {
+      "text": "and in this way your smart work will be useful",
+      "start": 32.0,
+      "duration": 2.0,
+      "timestamp": "00:32"
+    },
+    {
+      "text": "that what are you doing",
+      "start": 34.0,
+      "duration": 2.0,
+      "timestamp": "00:34"
+    },
+    {
+      "text": "what are you learning",
+      "start": 36.0,
+      "duration": 2.0,
+      "timestamp": "00:36"
+    },
+    {
+      "text": "there was a way to do a task in 10 minutes",
+      "start": 38.0,
+      "duration": 2.0,
+      "timestamp": "00:38"
+    },
+    {
+      "text": "you made it in an hour",
+      "start": 40.0,
+      "duration": 2.0,
+      "timestamp": "00:40"
+    },
+    {
+      "text": "you are doing it with that classical approach",
+      "start": 42.0,
+      "duration": 2.0,
+      "timestamp": "00:42"
+    },
+    {
+      "text": "then the person who is doing approach so that person will replace you",
+      "start": 44.0,
+      "duration": 2.0,
+      "timestamp": "00:44"
+    },
+    {
+      "text": "who is doing it in 10 minutes",
+      "start": 46.0,
+      "duration": 2.0,
+      "timestamp": "00:46"
+    },
+    {
+      "text": "and today I will talk about what is machine learning",
+      "start": 48.0,
+      "duration": 2.0,
+      "timestamp": "00:48"
+    },
+    {
+      "text": "what is AI",
+      "start": 50.0,
+      "duration": 2.0,
+      "timestamp": "00:50"
+    },
+    {
+      "text": "how you can learn AI and machine learning",
+      "start": 52.0,
+      "duration": 2.0,
+      "timestamp": "00:52"
+    },
+    {
+      "text": "and we will talk about some modern tools",
+      "start": 54.0,
+      "duration": 2.0,
+      "timestamp": "00:54"
+    },
+    {
+      "text": "which you should use",
+      "start": 56.0,
+      "duration": 2.0,
+      "timestamp": "00:56"
+    },
+    {
+      "text": "if you want to focus on machine learning and artificial intelligence",
+      "start": 58.0,
+      "duration": 2.0,
+      "timestamp": "00:58"
+    },
+    {
+      "text": "in 2024",
+      "start": 60.0,
+      "duration": 2.0,
+      "timestamp": "01:00"
+    },
+    {
+      "text": "and you want to give a boost to your career",
+      "start": 62.0,
+      "duration": 2.0,
+      "timestamp": "01:02"
+    },
+    {
+      "text": "and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say",
+      "start": 64.0,
+      "duration": 2.0,
+      "timestamp": "01:04"
+    },
+    {
+      "text": "you want to save your career. What is machine learning?",
+      "start": 66.0,
+      "duration": 3.0,
+      "timestamp": "01:06"
+    },
+    {
+      "text": "Machine learning is a process of training an algorithm on data",
+      "start": 69.0,
+      "duration": 3.0,
+      "timestamp": "01:09"
+    },
+    {
+      "text": "What does it mean? You have a lot of data",
+      "start": 72.0,
+      "duration": 3.0,
+      "timestamp": "01:12"
+    },
+    {
+      "text": "Let's say you have 3 billion data points",
+      "start": 75.0,
+      "duration": 3.0,
+      "timestamp": "01:15"
+    },
+    {
+      "text": "and now you want that you",
+      "start": 78.0,
+      "duration": 3.0,
+      "timestamp": "01:18"
+    },
+    {
+      "text": "can predict about new data points",
+      "start": 81.0,
+      "duration": 3.0,
+      "timestamp": "01:21"
+    },
+    {
+      "text": "by looking at 3 billion data points.",
+      "start": 84.0,
+      "duration": 2.04,
+      "timestamp": "01:24"
+    },
+    {
+      "text": "Now let us say I have data that how fast was the wind",
+      "start": 86.04,
+      "duration": 2.98,
+      "timestamp": "01:26"
+    },
+    {
+      "text": "I have data that how much was the precipitation, how much was the humidity",
+      "start": 89.02,
+      "duration": 3.02,
+      "timestamp": "01:29"
+    },
+    {
+      "text": "and what was the temperature that day and I have to predict",
+      "start": 92.04,
+      "duration": 3.0,
+      "timestamp": "01:32"
+    },
+    {
+      "text": "whether it is going to rain or not.",
+      "start": 95.04,
+      "duration": 3.0,
+      "timestamp": "01:35"
+    },
+    {
+      "text": "I can do this using machine learning algorithms.",
+      "start": 98.04,
+      "duration": 3.0,
+      "timestamp": "01:38"
+    },
+    {
+      "text": "How will I do prediction? I will do it",
+      "start": 101.04,
+      "duration": 3.0,
+      "timestamp": "01:41"
+    },
+    {
+      "text": "by showing that old data to a machine learning algorithm",
+      "start": 104.04,
+      "duration": 1.96,
+      "timestamp": "01:44"
+    },
+    {
+      "text": "so i will say when the precipitation was this much",
+      "start": 106.0,
+      "duration": 3.0,
+      "timestamp": "01:46"
+    },
+    {
+      "text": "and humidity was this much and temperature was this much then it rained",
+      "start": 109.0,
+      "duration": 3.0,
+      "timestamp": "01:49"
+    },
+    {
+      "text": "when the precipitation, humidity and temperature was this much then it didn't rain",
+      "start": 112.0,
+      "duration": 3.0,
+      "timestamp": "01:52"
+    },
+    {
+      "text": "when i will give a new value that today's precipitation, humidity",
+      "start": 115.0,
+      "duration": 3.0,
+      "timestamp": "01:55"
+    },
+    {
+      "text": "and temperature is this much then it will tell me",
+      "start": 118.0,
+      "duration": 3.0,
+      "timestamp": "01:58"
+    },
+    {
+      "text": "that according to this value today it is not going to rain",
+      "start": 121.0,
+      "duration": 3.0,
+      "timestamp": "02:01"
+    },
+    {
+      "text": "and today it is going to rain, today it is going to rain",
+      "start": 124.0,
+      "duration": 2.0,
+      "timestamp": "02:04"
+    },
+    {
+      "text": "will it be true? no, it will be a prediction",
+      "start": 126.0,
+      "duration": 3.0,
+      "timestamp": "02:06"
+    },
+    {
+      "text": "so what machine learning and AI does is predictions",
+      "start": 129.0,
+      "duration": 3.0,
+      "timestamp": "02:09"
+    },
+    {
+      "text": "I have talked about a very simple prediction",
+      "start": 132.0,
+      "duration": 3.0,
+      "timestamp": "02:12"
+    },
+    {
+      "text": "but if you take this thing to the next level",
+      "start": 135.0,
+      "duration": 3.0,
+      "timestamp": "02:15"
+    },
+    {
+      "text": "through deep learning, if you train complex algorithms",
+      "start": 138.0,
+      "duration": 3.0,
+      "timestamp": "02:18"
+    },
+    {
+      "text": "then it is seen there",
+      "start": 141.0,
+      "duration": 3.0,
+      "timestamp": "02:21"
+    },
+    {
+      "text": "that by training complex algorithms",
+      "start": 144.0,
+      "duration": 2.0,
+      "timestamp": "02:24"
+    },
+    {
+      "text": "this process becomes so dangerous",
+      "start": 146.0,
+      "duration": 2.0,
+      "timestamp": "02:26"
+    },
+    {
+      "text": "that humans also get amazed",
+      "start": 148.0,
+      "duration": 2.0,
+      "timestamp": "02:28"
+    },
+    {
+      "text": "chart gpt is a classic example of this",
+      "start": 150.0,
+      "duration": 2.0,
+      "timestamp": "02:30"
+    },
+    {
+      "text": "chart gpt is not a pure machine learning model",
+      "start": 152.0,
+      "duration": 2.0,
+      "timestamp": "02:32"
+    },
+    {
+      "text": "chart gpt",
+      "start": 154.0,
+      "duration": 2.0,
+      "timestamp": "02:34"
+    },
+    {
+      "text": "gives you some layer of abstraction",
+      "start": 156.0,
+      "duration": 2.0,
+      "timestamp": "02:36"
+    },
+    {
+      "text": "on machine learning",
+      "start": 158.0,
+      "duration": 2.0,
+      "timestamp": "02:38"
+    },
+    {
+      "text": "that means it has some regular rules",
+      "start": 160.0,
+      "duration": 2.0,
+      "timestamp": "02:40"
+    },
+    {
+      "text": "some checks",
+      "start": 162.0,
+      "duration": 2.0,
+      "timestamp": "02:42"
+    },
+    {
+      "text": "chart gpt is not just a neural network,",
+      "start": 164.0,
+      "duration": 2.2,
+      "timestamp": "02:44"
+    },
+    {
+      "text": "let me tell you this too,",
+      "start": 166.2,
+      "duration": 1.2,
+      "timestamp": "02:46"
+    },
+    {
+      "text": "so on that neural network,",
+      "start": 167.4,
+      "duration": 1.8,
+      "timestamp": "02:47"
+    },
+    {
+      "text": "a little customization is done,",
+      "start": 169.2,
+      "duration": 1.4,
+      "timestamp": "02:49"
+    },
+    {
+      "text": "a thing is made,",
+      "start": 170.6,
+      "duration": 1.6,
+      "timestamp": "02:50"
+    },
+    {
+      "text": "which blows the mind of a common man,",
+      "start": 172.2,
+      "duration": 2.8,
+      "timestamp": "02:52"
+    },
+    {
+      "text": "if you want to learn machine learning,",
+      "start": 175.0,
+      "duration": 2.0,
+      "timestamp": "02:55"
+    },
+    {
+      "text": "and want to learn to deploy machine learning models,",
+      "start": 177.0,
+      "duration": 2.6,
+      "timestamp": "02:57"
+    },
+    {
+      "text": "because in the industry,",
+      "start": 179.6,
+      "duration": 1.2,
+      "timestamp": "02:59"
+    },
+    {
+      "text": "you are not asked the basics,",
+      "start": 180.8,
+      "duration": 1.6,
+      "timestamp": "03:00"
+    },
+    {
+      "text": "you will have real world data,",
+      "start": 182.4,
+      "duration": 1.8,
+      "timestamp": "03:02"
+    },
+    {
+      "text": "and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data",
+      "start": 184.2,
+      "duration": 1.8,
+      "timestamp": "03:04"
+    },
+    {
+      "text": "and give some insights",
+      "start": 186.0,
+      "duration": 2.0,
+      "timestamp": "03:06"
+    },
+    {
+      "text": "and make the business profit",
+      "start": 188.0,
+      "duration": 2.0,
+      "timestamp": "03:08"
+    },
+    {
+      "text": "and in this situation, it is not necessary",
+      "start": 190.0,
+      "duration": 2.0,
+      "timestamp": "03:10"
+    },
+    {
+      "text": "that you know the machine learning algorithm",
+      "start": 192.0,
+      "duration": 2.0,
+      "timestamp": "03:12"
+    },
+    {
+      "text": "and this function or not",
+      "start": 194.0,
+      "duration": 2.0,
+      "timestamp": "03:14"
+    },
+    {
+      "text": "but there it is necessary",
+      "start": 196.0,
+      "duration": 2.0,
+      "timestamp": "03:16"
+    },
+    {
+      "text": "that how long are you doing the implementation",
+      "start": 198.0,
+      "duration": 2.0,
+      "timestamp": "03:18"
+    },
+    {
+      "text": "and if you are able to do the implementation well",
+      "start": 200.0,
+      "duration": 2.0,
+      "timestamp": "03:20"
+    },
+    {
+      "text": "then you will be very successful",
+      "start": 202.0,
+      "duration": 2.0,
+      "timestamp": "03:22"
+    },
+    {
+      "text": "in that job.",
+      "start": 204.0,
+      "duration": 1.68,
+      "timestamp": "03:24"
+    },
+    {
+      "text": "Your demand will increase.",
+      "start": 205.68,
+      "duration": 1.36,
+      "timestamp": "03:25"
+    },
+    {
+      "text": "You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools.",
+      "start": 207.04,
+      "duration": 6.6,
+      "timestamp": "03:27"
+    },
+    {
+      "text": "And with the help of such tools, AI models are deployed.",
+      "start": 213.64,
+      "duration": 3.04,
+      "timestamp": "03:33"
+    },
+    {
+      "text": "For example, take the example of Amazon SageMaker.",
+      "start": 216.68,
+      "duration": 2.2,
+      "timestamp": "03:36"
+    },
+    {
+      "text": "You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast",
+      "start": 218.88,
+      "duration": 11.84,
+      "timestamp": "03:38"
+    },
+    {
+      "text": "I was looking at some Amazon courses on Skillbuilder",
+      "start": 230.72,
+      "duration": 2.84,
+      "timestamp": "03:50"
+    },
+    {
+      "text": "If you don't know what is Skillbuilder, then you should know about Skillbuilder",
+      "start": 233.56,
+      "duration": 3.28,
+      "timestamp": "03:53"
+    },
+    {
+      "text": "Because there are many free courses there that will teach you about Generative AI",
+      "start": 236.84,
+      "duration": 3.72,
+      "timestamp": "03:56"
+    },
+    {
+      "text": "We will teach you how to use Amazon AWS tools",
+      "start": 240.56,
+      "duration": 3.36,
+      "timestamp": "04:00"
+    },
+    {
+      "text": "If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS",
+      "start": 243.92,
+      "duration": 2.08,
+      "timestamp": "04:03"
+    },
+    {
+      "text": "you can always create one",
+      "start": 246.0,
+      "duration": 3.0,
+      "timestamp": "04:06"
+    },
+    {
+      "text": "you get 1 year free",
+      "start": 249.0,
+      "duration": 3.0,
+      "timestamp": "04:09"
+    },
+    {
+      "text": "at the time of recording this video",
+      "start": 252.0,
+      "duration": 3.0,
+      "timestamp": "04:12"
+    },
+    {
+      "text": "Amazon AWS gives you a lot of free tier",
+      "start": 255.0,
+      "duration": 3.0,
+      "timestamp": "04:15"
+    },
+    {
+      "text": "to deploy machines",
+      "start": 258.0,
+      "duration": 3.0,
+      "timestamp": "04:18"
+    },
+    {
+      "text": "which is actually a lot of help from Amazon",
+      "start": 261.0,
+      "duration": 3.0,
+      "timestamp": "04:21"
+    },
+    {
+      "text": "I will show you about Amazon AWS skill builder",
+      "start": 264.0,
+      "duration": 1.16,
+      "timestamp": "04:24"
+    },
+    {
+      "text": "and some other Amazon courses",
+      "start": 265.16,
+      "duration": 2.96,
+      "timestamp": "04:25"
+    },
+    {
+      "text": "in the computer screen.",
+      "start": 268.12,
+      "duration": 1.32,
+      "timestamp": "04:28"
+    },
+    {
+      "text": "If you open this webpage,",
+      "start": 269.44,
+      "duration": 1.6,
+      "timestamp": "04:29"
+    },
+    {
+      "text": "which I have also given in the description,",
+      "start": 271.04,
+      "duration": 1.8,
+      "timestamp": "04:31"
+    },
+    {
+      "text": "if you see here,",
+      "start": 272.84,
+      "duration": 1.28,
+      "timestamp": "04:32"
+    },
+    {
+      "text": "then here is a video of machine learning basics,",
+      "start": 274.12,
+      "duration": 3.12,
+      "timestamp": "04:34"
+    },
+    {
+      "text": "which is a revolutionary video, let me tell you.",
+      "start": 277.24,
+      "duration": 2.36,
+      "timestamp": "04:37"
+    },
+    {
+      "text": "You guys watch this video,",
+      "start": 279.6,
+      "duration": 1.2,
+      "timestamp": "04:39"
+    },
+    {
+      "text": "I watched this video completely",
+      "start": 280.8,
+      "duration": 1.56,
+      "timestamp": "04:40"
+    },
+    {
+      "text": "and it was a game changer",
+      "start": 282.36,
+      "duration": 1.56,
+      "timestamp": "04:42"
+    },
+    {
+      "text": "because they have to do all this from Amazon AWS",
+      "start": 283.92,
+      "duration": 3.08,
+      "timestamp": "04:43"
+    },
+    {
+      "text": "and keeping in mind the aspect of Amazon AWS",
+      "start": 287.0,
+      "duration": 4.0,
+      "timestamp": "04:47"
+    },
+    {
+      "text": "which in my opinion is great",
+      "start": 291.0,
+      "duration": 3.0,
+      "timestamp": "04:51"
+    },
+    {
+      "text": "because if you are able to do this kind of work",
+      "start": 294.0,
+      "duration": 3.0,
+      "timestamp": "04:54"
+    },
+    {
+      "text": "then you are the king of modern generative AI",
+      "start": 297.0,
+      "duration": 3.0,
+      "timestamp": "04:57"
+    },
+    {
+      "text": "you don't just have to know about algorithms",
+      "start": 300.0,
+      "duration": 3.0,
+      "timestamp": "05:00"
+    },
+    {
+      "text": "you should know how to do these things",
+      "start": 303.0,
+      "duration": 2.5,
+      "timestamp": "05:03"
+    },
+    {
+      "text": "and if you have learned to use code whisperer",
+      "start": 305.5,
+      "duration": 3.0,
+      "timestamp": "05:05"
+    },
+    {
+      "text": "you have learned to use SageMaker",
+      "start": 308.5,
+      "duration": 2.0,
+      "timestamp": "05:08"
+    },
+    {
+      "text": "then with the help of AWS",
+      "start": 310.5,
+      "duration": 2.5,
+      "timestamp": "05:10"
+    },
+    {
+      "text": "the things you are able to do",
+      "start": 313.0,
+      "duration": 2.5,
+      "timestamp": "05:13"
+    },
+    {
+      "text": "you will be able to do it faster",
+      "start": 315.5,
+      "duration": 2.0,
+      "timestamp": "05:15"
+    },
+    {
+      "text": "so if I take you to the skill builder",
+      "start": 317.5,
+      "duration": 3.0,
+      "timestamp": "05:17"
+    },
+    {
+      "text": "then you can sign up for it",
+      "start": 320.5,
+      "duration": 1.5,
+      "timestamp": "05:20"
+    },
+    {
+      "text": "and there are a lot of free courses here",
+      "start": 322.0,
+      "duration": 1.5,
+      "timestamp": "05:22"
+    },
+    {
+      "text": "you can explore them and start taking them.",
+      "start": 323.5,
+      "duration": 2.5,
+      "timestamp": "05:23"
+    },
+    {
+      "text": "Create an account on Amazon AWS and start working.",
+      "start": 326.0,
+      "duration": 4.0,
+      "timestamp": "05:26"
+    },
+    {
+      "text": "And in the next 1-2 years, the demand for all these things",
+      "start": 330.0,
+      "duration": 2.0,
+      "timestamp": "05:30"
+    },
+    {
+      "text": "is going to increase a lot.",
+      "start": 332.0,
+      "duration": 2.0,
+      "timestamp": "05:32"
+    },
+    {
+      "text": "And as I told you a while ago,",
+      "start": 334.0,
+      "duration": 2.0,
+      "timestamp": "05:34"
+    },
+    {
+      "text": "that AI will not replace you,",
+      "start": 336.0,
+      "duration": 2.0,
+      "timestamp": "05:36"
+    },
+    {
+      "text": "you will be replaced by a person who uses AI to conquer,",
+      "start": 338.0,
+      "duration": 5.0,
+      "timestamp": "05:38"
+    },
+    {
+      "text": "who will be faster than you because he uses AI",
+      "start": 343.0,
+      "duration": 4.0,
+      "timestamp": "05:43"
+    },
+    {
+      "text": "so guys that's why I will put all these resources in the description for you",
+      "start": 347.0,
+      "duration": 4.0,
+      "timestamp": "05:47"
+    },
+    {
+      "text": "and you can learn everything by doing it slowly",
+      "start": 351.0,
+      "duration": 3.0,
+      "timestamp": "05:51"
+    },
+    {
+      "text": "here Amazon has put free courses for you",
+      "start": 354.0,
+      "duration": 3.0,
+      "timestamp": "05:54"
+    },
+    {
+      "text": "with generative AI",
+      "start": 357.0,
+      "duration": 2.0,
+      "timestamp": "05:57"
+    },
+    {
+      "text": "how you can use Amazon AWS tools",
+      "start": 359.0,
+      "duration": 3.0,
+      "timestamp": "05:59"
+    },
+    {
+      "text": "you will get the link in the description",
+      "start": 362.0,
+      "duration": 2.0,
+      "timestamp": "06:02"
+    },
+    {
+      "text": "you all can access the link in the description",
+      "start": 364.0,
+      "duration": 1.48,
+      "timestamp": "06:04"
+    },
+    {
+      "text": "All the learning paths",
+      "start": 365.48,
+      "duration": 1.86,
+      "timestamp": "06:05"
+    },
+    {
+      "text": "PDFs and all this I will give you in the description",
+      "start": 367.34,
+      "duration": 3.18,
+      "timestamp": "06:07"
+    },
+    {
+      "text": "Now we come back to what is machine learning",
+      "start": 370.52,
+      "duration": 3.28,
+      "timestamp": "06:10"
+    },
+    {
+      "text": "So by showing the data we can do prediction",
+      "start": 373.8,
+      "duration": 2.0,
+      "timestamp": "06:13"
+    },
+    {
+      "text": "With the help of machine learning, I just told you this",
+      "start": 375.8,
+      "duration": 2.5,
+      "timestamp": "06:15"
+    },
+    {
+      "text": "But machine learning is of three types",
+      "start": 378.3,
+      "duration": 2.0,
+      "timestamp": "06:18"
+    },
+    {
+      "text": "If I talk only about machine learning",
+      "start": 380.3,
+      "duration": 1.5,
+      "timestamp": "06:20"
+    },
+    {
+      "text": "Supervised, unsupervised and reinforcement learning",
+      "start": 381.8,
+      "duration": 4.2,
+      "timestamp": "06:21"
+    },
+    {
+      "text": "what happens in supervised learning is that you have some input",
+      "start": 386.0,
+      "duration": 3.08,
+      "timestamp": "06:26"
+    },
+    {
+      "text": "or multiple output",
+      "start": 389.08,
+      "duration": 3.0,
+      "timestamp": "06:29"
+    },
+    {
+      "text": "and you have this kind of organized data",
+      "start": 392.08,
+      "duration": 3.0,
+      "timestamp": "06:32"
+    },
+    {
+      "text": "like I told you, based on precipitation, humidity and temperature",
+      "start": 395.08,
+      "duration": 3.0,
+      "timestamp": "06:35"
+    },
+    {
+      "text": "we were predicting rain yes or no",
+      "start": 398.08,
+      "duration": 3.0,
+      "timestamp": "06:38"
+    },
+    {
+      "text": "if I have this kind of data and I have values of new precipitation, humidity and temperature",
+      "start": 401.08,
+      "duration": 3.0,
+      "timestamp": "06:41"
+    },
+    {
+      "text": "then based on that I can find out whether it will rain or not based on that",
+      "start": 404.08,
+      "duration": 2.92,
+      "timestamp": "06:44"
+    },
+    {
+      "text": "or if I have some parameters of a person's health parameters",
+      "start": 407.0,
+      "duration": 3.0,
+      "timestamp": "06:47"
+    },
+    {
+      "text": "let's say his blood pressure, let's say his blood glucose",
+      "start": 410.0,
+      "duration": 3.0,
+      "timestamp": "06:50"
+    },
+    {
+      "text": "along with that, if I have all these things",
+      "start": 413.0,
+      "duration": 3.0,
+      "timestamp": "06:53"
+    },
+    {
+      "text": "then I can find out whether he is diabetic or not",
+      "start": 416.0,
+      "duration": 2.0,
+      "timestamp": "06:56"
+    },
+    {
+      "text": "if I run it with a machine learning algorithm",
+      "start": 418.0,
+      "duration": 3.0,
+      "timestamp": "06:58"
+    },
+    {
+      "text": "then I can get a very good information about the patient",
+      "start": 421.0,
+      "duration": 3.0,
+      "timestamp": "07:01"
+    },
+    {
+      "text": "I can get a presumption that he can have diabetes or not",
+      "start": 424.0,
+      "duration": 2.0,
+      "timestamp": "07:04"
+    },
+    {
+      "text": "and on the basis of that I can do tests etc.",
+      "start": 426.0,
+      "duration": 2.0,
+      "timestamp": "07:06"
+    },
+    {
+      "text": "so it is being used a lot in medical and health care",
+      "start": 428.0,
+      "duration": 4.0,
+      "timestamp": "07:08"
+    },
+    {
+      "text": "because generative AI is doing a lot of manual work",
+      "start": 432.0,
+      "duration": 3.0,
+      "timestamp": "07:12"
+    },
+    {
+      "text": "so what happens in supervised learning",
+      "start": 435.0,
+      "duration": 2.0,
+      "timestamp": "07:15"
+    },
+    {
+      "text": "that the input you have is",
+      "start": 437.0,
+      "duration": 2.0,
+      "timestamp": "07:17"
+    },
+    {
+      "text": "output is specified by you that this is the output",
+      "start": 439.0,
+      "duration": 2.0,
+      "timestamp": "07:19"
+    },
+    {
+      "text": "in unsupervised learning you have data",
+      "start": 441.0,
+      "duration": 3.0,
+      "timestamp": "07:21"
+    },
+    {
+      "text": "and on that data you have to",
+      "start": 444.0,
+      "duration": 2.0,
+      "timestamp": "07:24"
+    },
+    {
+      "text": "train an algorithm in such a way",
+      "start": 446.0,
+      "duration": 2.0,
+      "timestamp": "07:26"
+    },
+    {
+      "text": "that algorithm tells you",
+      "start": 448.0,
+      "duration": 2.0,
+      "timestamp": "07:28"
+    },
+    {
+      "text": "how this data can be organized",
+      "start": 450.0,
+      "duration": 2.0,
+      "timestamp": "07:30"
+    },
+    {
+      "text": "for example, I can do clustering",
+      "start": 452.0,
+      "duration": 2.0,
+      "timestamp": "07:32"
+    },
+    {
+      "text": "I have a lot of data points and I want to",
+      "start": 454.0,
+      "duration": 2.0,
+      "timestamp": "07:34"
+    },
+    {
+      "text": "find out which of these data points",
+      "start": 456.0,
+      "duration": 2.0,
+      "timestamp": "07:36"
+    },
+    {
+      "text": "are related to each other",
+      "start": 458.0,
+      "duration": 2.0,
+      "timestamp": "07:38"
+    },
+    {
+      "text": "and how much are they related, so I can use",
+      "start": 460.0,
+      "duration": 2.0,
+      "timestamp": "07:40"
+    },
+    {
+      "text": "k-means clustering algorithm",
+      "start": 462.0,
+      "duration": 2.0,
+      "timestamp": "07:42"
+    },
+    {
+      "text": "or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms",
+      "start": 464.0,
+      "duration": 3.28,
+      "timestamp": "07:44"
+    },
+    {
+      "text": "and do clustering and classify a data in some labels",
+      "start": 467.28,
+      "duration": 4.88,
+      "timestamp": "07:47"
+    },
+    {
+      "text": "and I can generate those labels by myself",
+      "start": 472.16,
+      "duration": 2.0,
+      "timestamp": "07:52"
+    },
+    {
+      "text": "these things are used a lot in generative AI and NLP",
+      "start": 474.16,
+      "duration": 3.28,
+      "timestamp": "07:54"
+    },
+    {
+      "text": "once the data comes from neural network",
+      "start": 477.44,
+      "duration": 2.8,
+      "timestamp": "07:57"
+    },
+    {
+      "text": "so in supervised learning, labeled examples are used",
+      "start": 480.24,
+      "duration": 2.64,
+      "timestamp": "08:00"
+    },
+    {
+      "text": "and in unsupervised learning, unlabeled examples are used.",
+      "start": 482.88,
+      "duration": 2.82,
+      "timestamp": "08:02"
+    },
+    {
+      "text": "Another example of unsupervised learning is credit card fraud detection.",
+      "start": 485.7,
+      "duration": 4.3,
+      "timestamp": "08:05"
+    },
+    {
+      "text": "Which credit card fraud or which transaction can be a fraudulent transaction.",
+      "start": 490.0,
+      "duration": 5.5,
+      "timestamp": "08:10"
+    },
+    {
+      "text": "Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning.",
+      "start": 495.5,
+      "duration": 5.7,
+      "timestamp": "08:15"
+    },
+    {
+      "text": "Then after this, there is another category, reinforcement learning.",
+      "start": 501.2,
+      "duration": 3.2,
+      "timestamp": "08:21"
+    },
+    {
+      "text": "What happens in Reinforcement Learning",
+      "start": 504.4,
+      "duration": 1.6,
+      "timestamp": "08:24"
+    },
+    {
+      "text": "is that we leave an agent",
+      "start": 506.0,
+      "duration": 2.0,
+      "timestamp": "08:26"
+    },
+    {
+      "text": "to collect data.",
+      "start": 508.0,
+      "duration": 2.0,
+      "timestamp": "08:28"
+    },
+    {
+      "text": "So what does he do? The agent does trial and error",
+      "start": 510.0,
+      "duration": 2.0,
+      "timestamp": "08:30"
+    },
+    {
+      "text": "and on the basis of that trial and error",
+      "start": 512.0,
+      "duration": 2.0,
+      "timestamp": "08:32"
+    },
+    {
+      "text": "he gets rewards or he gets a penalty",
+      "start": 514.0,
+      "duration": 2.0,
+      "timestamp": "08:34"
+    },
+    {
+      "text": "and what does he do? He maximizes his rewards.",
+      "start": 516.0,
+      "duration": 3.0,
+      "timestamp": "08:36"
+    },
+    {
+      "text": "And after that, he only does the work",
+      "start": 519.0,
+      "duration": 2.0,
+      "timestamp": "08:39"
+    },
+    {
+      "text": "by which his reward is maximized.",
+      "start": 521.0,
+      "duration": 1.0,
+      "timestamp": "08:41"
+    },
+    {
+      "text": "And he himself knows",
+      "start": 522.0,
+      "duration": 2.0,
+      "timestamp": "08:42"
+    },
+    {
+      "text": "what work he should do",
+      "start": 524.0,
+      "duration": 1.6,
+      "timestamp": "08:44"
+    },
+    {
+      "text": "so that my reward is maximized",
+      "start": 525.6,
+      "duration": 2.0,
+      "timestamp": "08:45"
+    },
+    {
+      "text": "Now what is the overall process of running a machine learning algorithm on a data?",
+      "start": 527.6,
+      "duration": 4.88,
+      "timestamp": "08:47"
+    },
+    {
+      "text": "What kind of process will you go through if you want to train a model with a machine learning algorithm?",
+      "start": 532.48,
+      "duration": 6.0,
+      "timestamp": "08:52"
+    },
+    {
+      "text": "The first step is data collection, in this you collect data",
+      "start": 538.48,
+      "duration": 3.12,
+      "timestamp": "08:58"
+    },
+    {
+      "text": "Now if your data is present in any database, then you will pull the data from there and bring it in the desired format",
+      "start": 541.6,
+      "duration": 4.4,
+      "timestamp": "09:01"
+    },
+    {
+      "text": "and the second step after data collection",
+      "start": 546.0,
+      "duration": 2.4,
+      "timestamp": "09:06"
+    },
+    {
+      "text": "is data pre-processing",
+      "start": 548.4,
+      "duration": 1.32,
+      "timestamp": "09:08"
+    },
+    {
+      "text": "in which you will clean up the data",
+      "start": 549.72,
+      "duration": 2.24,
+      "timestamp": "09:09"
+    },
+    {
+      "text": "and after cleaning it up",
+      "start": 551.96,
+      "duration": 1.8,
+      "timestamp": "09:11"
+    },
+    {
+      "text": "we will bring it in such a format",
+      "start": 553.76,
+      "duration": 1.32,
+      "timestamp": "09:13"
+    },
+    {
+      "text": "such that it can be consumed",
+      "start": 555.08,
+      "duration": 1.48,
+      "timestamp": "09:15"
+    },
+    {
+      "text": "by a machine learning algorithm",
+      "start": 556.56,
+      "duration": 1.4,
+      "timestamp": "09:16"
+    },
+    {
+      "text": "after this comes the model selection",
+      "start": 557.96,
+      "duration": 1.32,
+      "timestamp": "09:17"
+    },
+    {
+      "text": "in which you will select a suitable model",
+      "start": 559.28,
+      "duration": 2.32,
+      "timestamp": "09:19"
+    },
+    {
+      "text": "or sometimes we use a lot of models",
+      "start": 561.6,
+      "duration": 1.96,
+      "timestamp": "09:21"
+    },
+    {
+      "text": "and for this packages like",
+      "start": 563.56,
+      "duration": 1.32,
+      "timestamp": "09:23"
+    },
+    {
+      "text": "scikit-le learn, tensorflow,",
+      "start": 564.88,
+      "duration": 1.12,
+      "timestamp": "09:24"
+    },
+    {
+      "text": "keras, pytorch, we use all of these",
+      "start": 566.0,
+      "duration": 3.0,
+      "timestamp": "09:26"
+    },
+    {
+      "text": "then after this we train our model, this process",
+      "start": 569.0,
+      "duration": 3.0,
+      "timestamp": "09:29"
+    },
+    {
+      "text": "sometimes takes a lot of time, sometimes it takes very less time",
+      "start": 572.0,
+      "duration": 3.0,
+      "timestamp": "09:32"
+    },
+    {
+      "text": "depending upon which algorithm we are using, how many",
+      "start": 575.0,
+      "duration": 3.0,
+      "timestamp": "09:35"
+    },
+    {
+      "text": "data points we have and what kind of data points",
+      "start": 578.0,
+      "duration": 3.0,
+      "timestamp": "09:38"
+    },
+    {
+      "text": "sometimes our data points are such big vectors",
+      "start": 581.0,
+      "duration": 3.0,
+      "timestamp": "09:41"
+    },
+    {
+      "text": "that even if it is less, it takes a lot of time.",
+      "start": 584.0,
+      "duration": 2.0,
+      "timestamp": "09:44"
+    },
+    {
+      "text": "After this, we do testing and evaluation",
+      "start": 586.0,
+      "duration": 2.0,
+      "timestamp": "09:46"
+    },
+    {
+      "text": "in which we test our model",
+      "start": 588.0,
+      "duration": 2.0,
+      "timestamp": "09:48"
+    },
+    {
+      "text": "and find out how much our model is better",
+      "start": 590.0,
+      "duration": 3.0,
+      "timestamp": "09:50"
+    },
+    {
+      "text": "and to make it better",
+      "start": 593.0,
+      "duration": 2.0,
+      "timestamp": "09:53"
+    },
+    {
+      "text": "what can we do",
+      "start": 595.0,
+      "duration": 1.0,
+      "timestamp": "09:55"
+    },
+    {
+      "text": "we get an accuracy number",
+      "start": 596.0,
+      "duration": 2.0,
+      "timestamp": "09:56"
+    },
+    {
+      "text": "and if we can maximize the accuracy",
+      "start": 598.0,
+      "duration": 1.0,
+      "timestamp": "09:58"
+    },
+    {
+      "text": "with any other algorithm",
+      "start": 599.0,
+      "duration": 2.0,
+      "timestamp": "09:59"
+    },
+    {
+      "text": "then we will do that",
+      "start": 601.0,
+      "duration": 1.0,
+      "timestamp": "10:01"
+    },
+    {
+      "text": "after this we do predictions",
+      "start": 602.0,
+      "duration": 2.0,
+      "timestamp": "10:02"
+    },
+    {
+      "text": "and after doing predictions we put the model",
+      "start": 604.0,
+      "duration": 2.0,
+      "timestamp": "10:04"
+    },
+    {
+      "text": "in production and after that",
+      "start": 606.0,
+      "duration": 2.0,
+      "timestamp": "10:06"
+    },
+    {
+      "text": "we keep updating the model",
+      "start": 608.0,
+      "duration": 2.0,
+      "timestamp": "10:08"
+    },
+    {
+      "text": "as we get more data",
+      "start": 610.0,
+      "duration": 2.0,
+      "timestamp": "10:10"
+    },
+    {
+      "text": "so this process is iterative",
+      "start": 612.0,
+      "duration": 2.0,
+      "timestamp": "10:12"
+    },
+    {
+      "text": "and it keeps on repeating",
+      "start": 614.0,
+      "duration": 2.0,
+      "timestamp": "10:14"
+    },
+    {
+      "text": "now we have some common metrics",
+      "start": 616.0,
+      "duration": 2.0,
+      "timestamp": "10:16"
+    },
+    {
+      "text": "to evaluate machine learning algorithms",
+      "start": 618.0,
+      "duration": 2.0,
+      "timestamp": "10:18"
+    },
+    {
+      "text": "like we have a metric",
+      "start": 620.0,
+      "duration": 2.0,
+      "timestamp": "10:20"
+    },
+    {
+      "text": "ROC AOC curve, along with that",
+      "start": 622.0,
+      "duration": 2.0,
+      "timestamp": "10:22"
+    },
+    {
+      "text": "we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error",
+      "start": 624.0,
+      "duration": 8.0,
+      "timestamp": "10:24"
+    },
+    {
+      "text": "Once you know what all these are, you will be able to evaluate your model very closely",
+      "start": 632.0,
+      "duration": 5.0,
+      "timestamp": "10:32"
+    },
+    {
+      "text": "And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same",
+      "start": 637.0,
+      "duration": 9.5,
+      "timestamp": "10:37"
+    },
+    {
+      "text": "but how you are deploying such that your service is not down",
+      "start": 646.5,
+      "duration": 4.0,
+      "timestamp": "10:46"
+    },
+    {
+      "text": "you don't get downtime at all",
+      "start": 650.5,
+      "duration": 2.0,
+      "timestamp": "10:50"
+    },
+    {
+      "text": "and you get such a managed environment",
+      "start": 652.5,
+      "duration": 2.0,
+      "timestamp": "10:52"
+    },
+    {
+      "text": "so that you can retrain your model",
+      "start": 654.5,
+      "duration": 2.0,
+      "timestamp": "10:54"
+    },
+    {
+      "text": "you can put it in production",
+      "start": 656.5,
+      "duration": 2.0,
+      "timestamp": "10:56"
+    },
+    {
+      "text": "you are not having any problem",
+      "start": 658.5,
+      "duration": 2.0,
+      "timestamp": "10:58"
+    },
+    {
+      "text": "and for this, as I told you, you can check out Amazon's tools",
+      "start": 660.5,
+      "duration": 2.0,
+      "timestamp": "11:00"
+    },
+    {
+      "text": "I will put all the links in the description.",
+      "start": 662.5,
+      "duration": 3.18,
+      "timestamp": "11:02"
+    },
+    {
+      "text": "Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI?",
+      "start": 665.68,
+      "duration": 6.76,
+      "timestamp": "11:05"
+    },
+    {
+      "text": "Deep learning is to make a neural network that approximates a function.",
+      "start": 672.44,
+      "duration": 4.96,
+      "timestamp": "11:12"
+    },
+    {
+      "text": "That function is assumed to fit the data given to us.",
+      "start": 677.4,
+      "duration": 4.48,
+      "timestamp": "11:17"
+    },
+    {
+      "text": "And it will also predict the incoming data points",
+      "start": 681.88,
+      "duration": 3.12,
+      "timestamp": "11:21"
+    },
+    {
+      "text": "Neural network is a complex function",
+      "start": 685.0,
+      "duration": 3.0,
+      "timestamp": "11:25"
+    },
+    {
+      "text": "which is impossible to imagine",
+      "start": 688.0,
+      "duration": 4.0,
+      "timestamp": "11:28"
+    },
+    {
+      "text": "and it can approximate a lot of data points",
+      "start": 692.0,
+      "duration": 3.0,
+      "timestamp": "11:32"
+    },
+    {
+      "text": "if I say 3x4x7",
+      "start": 695.0,
+      "duration": 2.0,
+      "timestamp": "11:35"
+    },
+    {
+      "text": "and 1x2x3",
+      "start": 697.0,
+      "duration": 2.0,
+      "timestamp": "11:37"
+    },
+    {
+      "text": "and 4x4x8",
+      "start": 699.0,
+      "duration": 2.0,
+      "timestamp": "11:39"
+    },
+    {
+      "text": "then you will understand that it is adding",
+      "start": 701.0,
+      "duration": 2.0,
+      "timestamp": "11:41"
+    },
+    {
+      "text": "so function is simple x plus y But sometimes the function is so complex",
+      "start": 703.0,
+      "duration": 3.0,
+      "timestamp": "11:43"
+    },
+    {
+      "text": "That you want to make that function",
+      "start": 706.0,
+      "duration": 2.0,
+      "timestamp": "11:46"
+    },
+    {
+      "text": "in such a way that",
+      "start": 708.0,
+      "duration": 2.0,
+      "timestamp": "11:48"
+    },
+    {
+      "text": "it is sitting very accurately and realistically",
+      "start": 710.0,
+      "duration": 2.0,
+      "timestamp": "11:50"
+    },
+    {
+      "text": "on the data",
+      "start": 712.0,
+      "duration": 2.0,
+      "timestamp": "11:52"
+    },
+    {
+      "text": "So for this we use deep learning",
+      "start": 714.0,
+      "duration": 2.0,
+      "timestamp": "11:54"
+    },
+    {
+      "text": "In which we use artificial neural networks",
+      "start": 716.0,
+      "duration": 2.0,
+      "timestamp": "11:56"
+    },
+    {
+      "text": "Artificial neural networks basically",
+      "start": 718.0,
+      "duration": 2.0,
+      "timestamp": "11:58"
+    },
+    {
+      "text": "approximate a function",
+      "start": 720.0,
+      "duration": 2.0,
+      "timestamp": "12:00"
+    },
+    {
+      "text": "We feed data with it again and again",
+      "start": 722.0,
+      "duration": 2.0,
+      "timestamp": "12:02"
+    },
+    {
+      "text": "And minimize the error this process is called training",
+      "start": 724.0,
+      "duration": 2.4,
+      "timestamp": "12:04"
+    },
+    {
+      "text": "we have feed forward neural networks",
+      "start": 726.4,
+      "duration": 2.0,
+      "timestamp": "12:06"
+    },
+    {
+      "text": "we have backward propagation methods",
+      "start": 728.4,
+      "duration": 2.3,
+      "timestamp": "12:08"
+    },
+    {
+      "text": "then there are different types of neural networks",
+      "start": 730.7,
+      "duration": 2.2,
+      "timestamp": "12:10"
+    },
+    {
+      "text": "like CNN, convolutional neural network",
+      "start": 732.9,
+      "duration": 2.2,
+      "timestamp": "12:12"
+    },
+    {
+      "text": "RNN, recurrent neural network",
+      "start": 735.1,
+      "duration": 1.8,
+      "timestamp": "12:15"
+    },
+    {
+      "text": "along with that there are LSTMs",
+      "start": 736.9,
+      "duration": 1.4,
+      "timestamp": "12:16"
+    },
+    {
+      "text": "long short term memory neural networks",
+      "start": 738.3,
+      "duration": 2.0,
+      "timestamp": "12:18"
+    },
+    {
+      "text": "these are made to solve longer sequences and vanishing gradient problems.",
+      "start": 740.3,
+      "duration": 4.7,
+      "timestamp": "12:20"
+    },
+    {
+      "text": "I had made a video long ago in which I talked about vanishing gradient problem.",
+      "start": 745.0,
+      "duration": 4.0,
+      "timestamp": "12:25"
+    },
+    {
+      "text": "So you can watch it. I had uploaded those videos of machine learning long ago.",
+      "start": 749.0,
+      "duration": 3.0,
+      "timestamp": "12:29"
+    },
+    {
+      "text": "So if you are interested, you can watch them again.",
+      "start": 752.0,
+      "duration": 2.0,
+      "timestamp": "12:32"
+    },
+    {
+      "text": "I have explained it in a very classical way on the board.",
+      "start": 754.0,
+      "duration": 3.0,
+      "timestamp": "12:34"
+    },
+    {
+      "text": "Then we have auto encoders, GANs, Generative Adversarial Networks.",
+      "start": 757.0,
+      "duration": 5.0,
+      "timestamp": "12:37"
+    },
+    {
+      "text": "GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards",
+      "start": 762.0,
+      "duration": 4.0,
+      "timestamp": "12:42"
+    },
+    {
+      "text": "Generative AI",
+      "start": 766.0,
+      "duration": 2.0,
+      "timestamp": "12:46"
+    },
+    {
+      "text": "earlier LSTMs were used but since",
+      "start": 768.0,
+      "duration": 2.0,
+      "timestamp": "12:48"
+    },
+    {
+      "text": "the time of transformers which is again",
+      "start": 770.0,
+      "duration": 2.0,
+      "timestamp": "12:50"
+    },
+    {
+      "text": "a kind of neural network",
+      "start": 772.0,
+      "duration": 2.0,
+      "timestamp": "12:52"
+    },
+    {
+      "text": "architecture such that",
+      "start": 774.0,
+      "duration": 2.0,
+      "timestamp": "12:54"
+    },
+    {
+      "text": "you can train data on NLP",
+      "start": 776.0,
+      "duration": 2.0,
+      "timestamp": "12:56"
+    },
+    {
+      "text": "very easily so you can use it",
+      "start": 778.0,
+      "duration": 2.0,
+      "timestamp": "12:58"
+    },
+    {
+      "text": "to arrive at things like chart GPT",
+      "start": 780.0,
+      "duration": 2.0,
+      "timestamp": "13:00"
+    },
+    {
+      "text": "but again it's not",
+      "start": 782.0,
+      "duration": 2.0,
+      "timestamp": "13:02"
+    },
+    {
+      "text": "that easy",
+      "start": 784.0,
+      "duration": 1.02,
+      "timestamp": "13:04"
+    },
+    {
+      "text": "you have to understand the basics",
+      "start": 785.02,
+      "duration": 2.0,
+      "timestamp": "13:05"
+    },
+    {
+      "text": "and then you have to see what is the architecture of transformer",
+      "start": 787.02,
+      "duration": 3.0,
+      "timestamp": "13:07"
+    },
+    {
+      "text": "what is transformer, what is attention",
+      "start": 790.02,
+      "duration": 2.0,
+      "timestamp": "13:10"
+    },
+    {
+      "text": "why it was made, what was the problem in LSTM",
+      "start": 792.02,
+      "duration": 2.0,
+      "timestamp": "13:12"
+    },
+    {
+      "text": "that we switched to transformers",
+      "start": 794.02,
+      "duration": 2.0,
+      "timestamp": "13:14"
+    },
+    {
+      "text": "and how a transformer's architecture generates new data",
+      "start": 796.02,
+      "duration": 3.0,
+      "timestamp": "13:16"
+    },
+    {
+      "text": "by looking at old data",
+      "start": 799.02,
+      "duration": 2.0,
+      "timestamp": "13:19"
+    },
+    {
+      "text": "how it is encoded in numbers",
+      "start": 801.02,
+      "duration": 2.0,
+      "timestamp": "13:21"
+    },
+    {
+      "text": "all this textual information in numbers",
+      "start": 803.02,
+      "duration": 1.98,
+      "timestamp": "13:23"
+    },
+    {
+      "text": "such that it is predicting our next token",
+      "start": 805.0,
+      "duration": 2.0,
+      "timestamp": "13:25"
+    },
+    {
+      "text": "now it is not that you should know everything",
+      "start": 807.0,
+      "duration": 2.0,
+      "timestamp": "13:27"
+    },
+    {
+      "text": "that you know mathematics",
+      "start": 809.0,
+      "duration": 2.0,
+      "timestamp": "13:29"
+    },
+    {
+      "text": "you know loss function",
+      "start": 811.0,
+      "duration": 2.0,
+      "timestamp": "13:31"
+    },
+    {
+      "text": "you should know the architecture of python",
+      "start": 813.0,
+      "duration": 4.0,
+      "timestamp": "13:33"
+    },
+    {
+      "text": "no, you should learn",
+      "start": 817.0,
+      "duration": 2.0,
+      "timestamp": "13:37"
+    },
+    {
+      "text": "you should have information",
+      "start": 819.0,
+      "duration": 2.0,
+      "timestamp": "13:39"
+    },
+    {
+      "text": "how your neural network is trained",
+      "start": 821.0,
+      "duration": 2.0,
+      "timestamp": "13:41"
+    },
+    {
+      "text": "and after that your work is very simple",
+      "start": 823.0,
+      "duration": 2.28,
+      "timestamp": "13:43"
+    },
+    {
+      "text": "use amazon sage maker",
+      "start": 825.28,
+      "duration": 1.8,
+      "timestamp": "13:45"
+    },
+    {
+      "text": "use amazon tools",
+      "start": 827.08,
+      "duration": 1.92,
+      "timestamp": "13:47"
+    },
+    {
+      "text": "feed the data",
+      "start": 829.0,
+      "duration": 1.32,
+      "timestamp": "13:49"
+    },
+    {
+      "text": "there is a thing made for you",
+      "start": 830.32,
+      "duration": 2.68,
+      "timestamp": "13:50"
+    },
+    {
+      "text": "such that you can send your model in production as soon as possible",
+      "start": 833.0,
+      "duration": 3.6,
+      "timestamp": "13:53"
+    },
+    {
+      "text": "so you will use it",
+      "start": 836.6,
+      "duration": 1.52,
+      "timestamp": "13:56"
+    },
+    {
+      "text": "use any new AI tool",
+      "start": 838.12,
+      "duration": 1.96,
+      "timestamp": "13:58"
+    },
+    {
+      "text": "use those things that are already available",
+      "start": 840.08,
+      "duration": 2.72,
+      "timestamp": "14:00"
+    },
+    {
+      "text": "instead of reinventing the wheel",
+      "start": 842.8,
+      "duration": 1.76,
+      "timestamp": "14:02"
+    },
+    {
+      "text": "you will work by yourself",
+      "start": 844.56,
+      "duration": 1.44,
+      "timestamp": "14:04"
+    },
+    {
+      "text": "so definitely you will be successful in all these things",
+      "start": 846.0,
+      "duration": 2.8,
+      "timestamp": "14:06"
+    },
+    {
+      "text": "so this was some basics of machine learning, AI and deep learning",
+      "start": 848.8,
+      "duration": 4.38,
+      "timestamp": "14:08"
+    },
+    {
+      "text": "you want to learn them again",
+      "start": 853.18,
+      "duration": 1.42,
+      "timestamp": "14:13"
+    },
+    {
+      "text": "I will put the links of Amazon skill builder in the description",
+      "start": 854.6,
+      "duration": 3.46,
+      "timestamp": "14:14"
+    },
+    {
+      "text": "on which you will learn how to use generative AI and Amazon SageMaker",
+      "start": 858.06,
+      "duration": 4.08,
+      "timestamp": "14:18"
+    },
+    {
+      "text": "to do the things of generative AI",
+      "start": 862.14,
+      "duration": 2.04,
+      "timestamp": "14:22"
+    },
+    {
+      "text": "I will give you all that in the description",
+      "start": 864.18,
+      "duration": 1.82,
+      "timestamp": "14:24"
+    },
+    {
+      "text": "I was watching this video of Amazon",
+      "start": 866.0,
+      "duration": 2.0,
+      "timestamp": "14:26"
+    },
+    {
+      "text": "and it was really",
+      "start": 868.0,
+      "duration": 2.0,
+      "timestamp": "14:28"
+    },
+    {
+      "text": "very helpful for me to be honest",
+      "start": 870.0,
+      "duration": 2.0,
+      "timestamp": "14:30"
+    },
+    {
+      "text": "and go to this page and watch these videos",
+      "start": 872.0,
+      "duration": 2.0,
+      "timestamp": "14:32"
+    },
+    {
+      "text": "first of all, some basics of",
+      "start": 874.0,
+      "duration": 2.0,
+      "timestamp": "14:34"
+    },
+    {
+      "text": "machine learning has been talked about",
+      "start": 876.0,
+      "duration": 2.0,
+      "timestamp": "14:36"
+    },
+    {
+      "text": "and how to use Generative AI",
+      "start": 878.0,
+      "duration": 2.0,
+      "timestamp": "14:38"
+    },
+    {
+      "text": "and how to use Amazon SageMaker",
+      "start": 880.0,
+      "duration": 2.0,
+      "timestamp": "14:40"
+    },
+    {
+      "text": "to do all these things",
+      "start": 882.0,
+      "duration": 2.0,
+      "timestamp": "14:42"
+    },
+    {
+      "text": "is told about it so you can check",
+      "start": 884.0,
+      "duration": 2.0,
+      "timestamp": "14:44"
+    },
+    {
+      "text": "the resources in the description",
+      "start": 886.0,
+      "duration": 2.0,
+      "timestamp": "14:46"
+    },
+    {
+      "text": "I hope you liked this video",
+      "start": 888.0,
+      "duration": 2.0,
+      "timestamp": "14:48"
+    },
+    {
+      "text": "what do you have to say?",
+      "start": 890.0,
+      "duration": 2.0,
+      "timestamp": "14:50"
+    },
+    {
+      "text": "do you agree with me that AI",
+      "start": 892.0,
+      "duration": 2.0,
+      "timestamp": "14:52"
+    },
+    {
+      "text": "will not take the job but",
+      "start": 894.0,
+      "duration": 2.0,
+      "timestamp": "14:54"
+    },
+    {
+      "text": "AI tools will take your job",
+      "start": 896.0,
+      "duration": 2.0,
+      "timestamp": "14:56"
+    },
+    {
+      "text": "with that said",
+      "start": 898.0,
+      "duration": 2.0,
+      "timestamp": "14:58"
+    },
+    {
+      "text": "I hope this video was helpful",
+      "start": 900.0,
+      "duration": 2.0,
+      "timestamp": "15:00"
+    },
+    {
+      "text": "thank you so much for watching this video",
+      "start": 902.0,
+      "duration": 2.0,
+      "timestamp": "15:02"
+    },
+    {
+      "text": "and I will see you next time",
+      "start": 904.0,
+      "duration": 0.0,
+      "timestamp": "15:04"
+    }
+  ],
+  "full_text": "So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024. In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software, my opinion is a little different here. I will say who will take away the jobs, not AI. The person who will learn to learn AI and machine learning tools will take away. Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him to do those things which a normal software developer does with a lot of hard work and in this way your smart work will be useful that what are you doing what are you learning there was a way to do a task in 10 minutes you made it in an hour you are doing it with that classical approach then the person who is doing approach so that person will replace you who is doing it in 10 minutes and today I will talk about what is machine learning what is AI how you can learn AI and machine learning and we will talk about some modern tools which you should use if you want to focus on machine learning and artificial intelligence in 2024 and you want to give a boost to your career and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say you want to save your career. What is machine learning? Machine learning is a process of training an algorithm on data What does it mean? You have a lot of data Let's say you have 3 billion data points and now you want that you can predict about new data points by looking at 3 billion data points. Now let us say I have data that how fast was the wind I have data that how much was the precipitation, how much was the humidity and what was the temperature that day and I have to predict whether it is going to rain or not. I can do this using machine learning algorithms. How will I do prediction? I will do it by showing that old data to a machine learning algorithm so i will say when the precipitation was this much and humidity was this much and temperature was this much then it rained when the precipitation, humidity and temperature was this much then it didn't rain when i will give a new value that today's precipitation, humidity and temperature is this much then it will tell me that according to this value today it is not going to rain and today it is going to rain, today it is going to rain will it be true? no, it will be a prediction so what machine learning and AI does is predictions I have talked about a very simple prediction but if you take this thing to the next level through deep learning, if you train complex algorithms then it is seen there that by training complex algorithms this process becomes so dangerous that humans also get amazed chart gpt is a classic example of this chart gpt is not a pure machine learning model chart gpt gives you some layer of abstraction on machine learning that means it has some regular rules some checks chart gpt is not just a neural network, let me tell you this too, so on that neural network, a little customization is done, a thing is made, which blows the mind of a common man, if you want to learn machine learning, and want to learn to deploy machine learning models, because in the industry, you are not asked the basics, you will have real world data, and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data and give some insights and make the business profit and in this situation, it is not necessary that you know the machine learning algorithm and this function or not but there it is necessary that how long are you doing the implementation and if you are able to do the implementation well then you will be very successful in that job. Your demand will increase. You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools. And with the help of such tools, AI models are deployed. For example, take the example of Amazon SageMaker. You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast I was looking at some Amazon courses on Skillbuilder If you don't know what is Skillbuilder, then you should know about Skillbuilder Because there are many free courses there that will teach you about Generative AI We will teach you how to use Amazon AWS tools If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS you can always create one you get 1 year free at the time of recording this video Amazon AWS gives you a lot of free tier to deploy machines which is actually a lot of help from Amazon I will show you about Amazon AWS skill builder and some other Amazon courses in the computer screen. If you open this webpage, which I have also given in the description, if you see here, then here is a video of machine learning basics, which is a revolutionary video, let me tell you. You guys watch this video, I watched this video completely and it was a game changer because they have to do all this from Amazon AWS and keeping in mind the aspect of Amazon AWS which in my opinion is great because if you are able to do this kind of work then you are the king of modern generative AI you don't just have to know about algorithms you should know how to do these things and if you have learned to use code whisperer you have learned to use SageMaker then with the help of AWS the things you are able to do you will be able to do it faster so if I take you to the skill builder then you can sign up for it and there are a lot of free courses here you can explore them and start taking them. Create an account on Amazon AWS and start working. And in the next 1-2 years, the demand for all these things is going to increase a lot. And as I told you a while ago, that AI will not replace you, you will be replaced by a person who uses AI to conquer, who will be faster than you because he uses AI so guys that's why I will put all these resources in the description for you and you can learn everything by doing it slowly here Amazon has put free courses for you with generative AI how you can use Amazon AWS tools you will get the link in the description you all can access the link in the description All the learning paths PDFs and all this I will give you in the description Now we come back to what is machine learning So by showing the data we can do prediction With the help of machine learning, I just told you this But machine learning is of three types If I talk only about machine learning Supervised, unsupervised and reinforcement learning what happens in supervised learning is that you have some input or multiple output and you have this kind of organized data like I told you, based on precipitation, humidity and temperature we were predicting rain yes or no if I have this kind of data and I have values of new precipitation, humidity and temperature then based on that I can find out whether it will rain or not based on that or if I have some parameters of a person's health parameters let's say his blood pressure, let's say his blood glucose along with that, if I have all these things then I can find out whether he is diabetic or not if I run it with a machine learning algorithm then I can get a very good information about the patient I can get a presumption that he can have diabetes or not and on the basis of that I can do tests etc. so it is being used a lot in medical and health care because generative AI is doing a lot of manual work so what happens in supervised learning that the input you have is output is specified by you that this is the output in unsupervised learning you have data and on that data you have to train an algorithm in such a way that algorithm tells you how this data can be organized for example, I can do clustering I have a lot of data points and I want to find out which of these data points are related to each other and how much are they related, so I can use k-means clustering algorithm or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms and do clustering and classify a data in some labels and I can generate those labels by myself these things are used a lot in generative AI and NLP once the data comes from neural network so in supervised learning, labeled examples are used and in unsupervised learning, unlabeled examples are used. Another example of unsupervised learning is credit card fraud detection. Which credit card fraud or which transaction can be a fraudulent transaction. Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning. Then after this, there is another category, reinforcement learning. What happens in Reinforcement Learning is that we leave an agent to collect data. So what does he do? The agent does trial and error and on the basis of that trial and error he gets rewards or he gets a penalty and what does he do? He maximizes his rewards. And after that, he only does the work by which his reward is maximized. And he himself knows what work he should do so that my reward is maximized Now what is the overall process of running a machine learning algorithm on a data? What kind of process will you go through if you want to train a model with a machine learning algorithm? The first step is data collection, in this you collect data Now if your data is present in any database, then you will pull the data from there and bring it in the desired format and the second step after data collection is data pre-processing in which you will clean up the data and after cleaning it up we will bring it in such a format such that it can be consumed by a machine learning algorithm after this comes the model selection in which you will select a suitable model or sometimes we use a lot of models and for this packages like scikit-le learn, tensorflow, keras, pytorch, we use all of these then after this we train our model, this process sometimes takes a lot of time, sometimes it takes very less time depending upon which algorithm we are using, how many data points we have and what kind of data points sometimes our data points are such big vectors that even if it is less, it takes a lot of time. After this, we do testing and evaluation in which we test our model and find out how much our model is better and to make it better what can we do we get an accuracy number and if we can maximize the accuracy with any other algorithm then we will do that after this we do predictions and after doing predictions we put the model in production and after that we keep updating the model as we get more data so this process is iterative and it keeps on repeating now we have some common metrics to evaluate machine learning algorithms like we have a metric ROC AOC curve, along with that we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error Once you know what all these are, you will be able to evaluate your model very closely And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same but how you are deploying such that your service is not down you don't get downtime at all and you get such a managed environment so that you can retrain your model you can put it in production you are not having any problem and for this, as I told you, you can check out Amazon's tools I will put all the links in the description. Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI? Deep learning is to make a neural network that approximates a function. That function is assumed to fit the data given to us. And it will also predict the incoming data points Neural network is a complex function which is impossible to imagine and it can approximate a lot of data points if I say 3x4x7 and 1x2x3 and 4x4x8 then you will understand that it is adding so function is simple x plus y But sometimes the function is so complex That you want to make that function in such a way that it is sitting very accurately and realistically on the data So for this we use deep learning In which we use artificial neural networks Artificial neural networks basically approximate a function We feed data with it again and again And minimize the error this process is called training we have feed forward neural networks we have backward propagation methods then there are different types of neural networks like CNN, convolutional neural network RNN, recurrent neural network along with that there are LSTMs long short term memory neural networks these are made to solve longer sequences and vanishing gradient problems. I had made a video long ago in which I talked about vanishing gradient problem. So you can watch it. I had uploaded those videos of machine learning long ago. So if you are interested, you can watch them again. I have explained it in a very classical way on the board. Then we have auto encoders, GANs, Generative Adversarial Networks. GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards Generative AI earlier LSTMs were used but since the time of transformers which is again a kind of neural network architecture such that you can train data on NLP very easily so you can use it to arrive at things like chart GPT but again it's not that easy you have to understand the basics and then you have to see what is the architecture of transformer what is transformer, what is attention why it was made, what was the problem in LSTM that we switched to transformers and how a transformer's architecture generates new data by looking at old data how it is encoded in numbers all this textual information in numbers such that it is predicting our next token now it is not that you should know everything that you know mathematics you know loss function you should know the architecture of python no, you should learn you should have information how your neural network is trained and after that your work is very simple use amazon sage maker use amazon tools feed the data there is a thing made for you such that you can send your model in production as soon as possible so you will use it use any new AI tool use those things that are already available instead of reinventing the wheel you will work by yourself so definitely you will be successful in all these things so this was some basics of machine learning, AI and deep learning you want to learn them again I will put the links of Amazon skill builder in the description on which you will learn how to use generative AI and Amazon SageMaker to do the things of generative AI I will give you all that in the description I was watching this video of Amazon and it was really very helpful for me to be honest and go to this page and watch these videos first of all, some basics of machine learning has been talked about and how to use Generative AI and how to use Amazon SageMaker to do all these things is told about it so you can check the resources in the description I hope you liked this video what do you have to say? do you agree with me that AI will not take the job but AI tools will take your job with that said I hope this video was helpful thank you so much for watching this video and I will see you next time",
+  "segment_count": 359
+}
